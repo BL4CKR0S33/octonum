@@ -25,8 +25,5 @@ for phone_number in $(cat "Phone list"); do octonum $phone_number | tee output.t
 ```
 # Change "Phone list" with a phone numbers list, and you can change the output.txt to what everyou want...
 
-'''
-Hello
-'''
 
 # Thanks for using my tool

@@ -13,6 +13,9 @@ To use the script just type:
 ```
 git clone https://github.com/BL4CKR0S33/octonum.git
 cd octonum
+chmod +x install.sh
+./install.sh
+
 python3 octonum.py -h (To run as portable)
 ```
 

@@ -10,6 +10,13 @@ To use the script just type:
  example : python3 octonum.py +0123456789 
 ```
 
+# How to install ?
+```
+git clone https://github.com/BL4CKR0S33/octonum.git
+cd octonum
+python3 octonum.py -h (To run as portable)
+```
+
 # To install in your system run ./install.sh
 # then execute it from the terminal by typing : octonum (phone number) or
 # octonum -h for help

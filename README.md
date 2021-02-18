@@ -26,7 +26,7 @@ python3 octonum.py -h (To run as portable)
 ```
 for phone_number in $(cat "Phone list"); do octonum $phone_number | tee output.txt; done
 ```
-# Change "Phone list" with a phone numbers list, and you can change the output.txt to what everyou want...
+# Change "Phone list" with a phone numbers list, and you can change the output.txt to whatever you want...
 
 
 # Thanks for using my tool

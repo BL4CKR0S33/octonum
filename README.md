@@ -1,5 +1,4 @@
-# This a simple python3 script it only pulls out geocode and carrier of a phone
-# number. The geocode may not work on some countries.
+# This a simple python3 script it only pulls out geocode and carrier of a phone number. The geocode may not work on some countries.
 
 # How to use ?
 
@@ -23,9 +22,9 @@ python3 octonum.py -h (To run as portable)
 
 
 # You can automate it by the folowing command :
-
-# for phone_number in $(cat "Phone list"); do octonum $phone_number | tee output.txt; done
-
+```
+for phone_number in $(cat "Phone list"); do octonum $phone_number | tee output.txt; done
+```
 # Change "Phone list" with a phone numbers list, and you can change the output.txt to 
 # what everyou want...
 
